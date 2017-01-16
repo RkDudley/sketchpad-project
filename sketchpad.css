@@ -1,0 +1,34 @@
+
+#container{
+	
+	margin: 60px;
+}
+#sketchpad{
+
+border: 5px solid blue;
+width: 480px;
+height: 500px;
+background-color: pink;
+display: block;
+margin-right: auto;
+margin-left: auto;
+}
+
+#white {
+	background-color: white;
+}
+#black {
+	background-color: black;
+}
+#red {
+	background-color: red;
+}
+#green {
+	background-color: green;
+}
+
+.box {
+    width: 30px;
+	height: 30px;
+	float: left;
+}
